@@ -9,9 +9,9 @@ layout: home
 <hr>
 <left>
 <br>
-<p style="text-align:center;"><img width="459" alt="Screen Shot 2023-02-10 at 6 49 09 PM" src="https://user-images.githubusercontent.com/122332459/218227951-0b39412c-2a5e-4be6-bc74-3233c31852f7.png"></p>
+<p style="text-align:center;"><img width="500" height="500" alt="Screen Shot 2023-03-08 at 7 04 54 PM" src="https://user-images.githubusercontent.com/122332459/223888582-3a690e68-f792-4565-a13e-0c5227e43822.png"></p>
 <br>
-<h6>Tomado de <a href="https://www.facebook.com/photo/?fbid=130351969093452&set=a.130351955760120">Facebook</a>.</h6>
+<h6>Tomado de <a href="https://ladi.lib.utexas.edu/en/MUPI/bf3b580f-a8e5-4dcb-9204-24934d3820b2">"7 Jahre"</a>.</h6>
 <br>
 <p style="text-align:left"><h5><left>(Placeholder for the Spanish introduction)</left></h5></p>
 <br>
