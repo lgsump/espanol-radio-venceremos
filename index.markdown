@@ -16,6 +16,6 @@ layout: home
 <p style="text-align:left"><h5><left>(Placeholder for the Spanish introduction)</left></h5></p>
 <br>
 <hr>
-<h1>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/">inglés</a>.</h1>
+<h1>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/">inglés</a></h1>
 <hr>
 </left>
