@@ -5,7 +5,7 @@ permalink: introducci-n
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<h2><center><i>Radio Venceremos: La radio del pueblo</i></center></h2>
+<h1><center><i>Radio Venceremos: La radio del pueblo</i></center></h1>
 <hr>
 <h3><center>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/introduction">inglés</a></center></h3>
 <hr>
