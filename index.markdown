@@ -16,6 +16,6 @@ layout: home
 <p style="text-align:left"><h5><left>Radio Venceremos fue un programa de radio que sirvió para difundir propaganda y comentario político contra las fuerzas opresoras del gobierno salvadoreño durante la Guerra Civil Salvadoreña (1979-1992). Sin embargo, la estación de radio continúo su programación aún después de los Acuerdos de Paz de 1992. Radio Venceremos sirvió como instrumento para el FMLN (Frente Farabundo Martí para la Liberación Nacional) para coordinar y comunicarse con la ciudadanía salvadoreña y así motivar su parte en el esfuerzo revolucionario, pero también sirvió como medio para diseminar noticias y para informar al pueblo de las atrocidades del gobierno y de sus ataques más recientes.</left></h5></p>
 <br>
 <hr>
-<h1>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/">inglés</a></h1>
+<h2>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/">inglés</a></h2>
 <hr>
 </left>
