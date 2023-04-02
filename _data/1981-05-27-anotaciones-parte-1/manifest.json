@@ -51,14 +51,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos.json",
-            "label": {
-              "none": ["Radio Venceremos"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-contexto-pol-tico.json",
             "label": {
               "none": ["Contexto político"]
