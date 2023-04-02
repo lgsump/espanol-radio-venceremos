@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-efectos-de-sonido.json",
-            "label": {
-              "none": ["Efectos de sonido"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-m-sica.json",
             "label": {
               "none": ["Música"]
