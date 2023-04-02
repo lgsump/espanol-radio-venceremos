@@ -23,6 +23,144 @@
         "id": "https://lgsump.github.io/radio-venceremos-espanol/1981-05-27-anotaciones-parte-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2712,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-enfrentamiento.json",
+            "label": {
+              "none": ["Enfrentamiento"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-sabotaje.json",
+            "label": {
+              "none": ["Sabotaje"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos/FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-poes-a.json",
+            "label": {
+              "none": ["Poesía"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-comentarista-invitado.json",
+            "label": {
+              "none": ["Comentarista Invitado"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-entrevistador.json",
+            "label": {
+              "none": ["Entrevistador"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-programa.json",
+            "label": {
+              "none": ["Programa"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-bajas-violencia-contra-ni-os.json",
+            "label": {
+              "none": ["Bajas/Violencia contra niños"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-reporte.json",
+            "label": {
+              "none": ["Reporte"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-efectos-de-sonido.json",
+            "label": {
+              "none": ["Efectos de sonido"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-entrevista.json",
+            "label": {
+              "none": ["Entrevista"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-contexto-pol-tico.json",
+            "label": {
+              "none": ["Contexto político"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1--br-.json",
+            "label": {
+              "none": ["\u003cbr\u003e"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-p-same-oficial-del-fmln.json",
+            "label": {
+              "none": ["Pésame oficial del FMLN"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-espanol/1981-05-27-anotaciones-parte-1/canvas-1/paintings",
