@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1--br-.json",
+  "type": "AnnotationPage",
+  "label": "<br>",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-anotaciones-parte-1-canvas-1--br--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Desde El Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/1981-05-27-anotaciones-parte-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2416.0,2424.0"
+        }
+      }
+    }
+  ]
+}
