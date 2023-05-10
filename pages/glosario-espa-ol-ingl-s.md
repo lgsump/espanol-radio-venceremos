@@ -8,7 +8,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 <center><i><b><h1>Glosario español-inglés
 <hr>
 <br>
-<br>
   <p style="text-align:left;"><h5><b><i>a la vista</i></b> -- (expression) in front of
 <br>
 <br>
