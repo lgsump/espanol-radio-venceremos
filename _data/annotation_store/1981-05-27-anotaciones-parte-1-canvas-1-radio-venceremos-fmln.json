@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos-fmln.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos/FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos-fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional emitiendo su señal de libertad desde el Salvador, donde todo un pueblo combate a la opresión.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/1981-05-27-anotaciones-parte-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "951.0,967.0"
+        }
+      }
+    }
+  ]
+}
