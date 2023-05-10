@@ -5,7 +5,7 @@ permalink: glosario-espa-ol-ingl-s
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<center><i><b><h1>Glosario español-inglés</center>
+<center><i><b><h1>Glosario español-inglés</h1>
 <hr>
 <br>
 <b><i>a la vista</i></b> -- (expression) in front of
