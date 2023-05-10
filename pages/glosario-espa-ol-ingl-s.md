@@ -5,11 +5,11 @@ permalink: glosario-espa-ol-ingl-s
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<center><i><b><h1>Glosario español-inglés</center>
+<center><i><b><h1>Glosario español-inglés
 <hr>
 <br>
 <br>
-<b><i>a la vista</i></b> -- (expression) in front of
+<right><h4><b><i>a la vista</i></b> -- (expression) in front of
 <br>
 <br>
 <b><i>bomba cazabobos</i></b> -- (n) booby trap
