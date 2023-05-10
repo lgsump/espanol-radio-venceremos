@@ -1,8 +1,8 @@
 ---
 layout: item
-title: 1981-05-20 Anotaciones
+title: 1981-05-20 Anotaciones, parte 2
 manifest_name: 1981-05-20-anotaciones
-permalink: 1981-05-20-anotaciones
+permalink: 1981-05-20-anotaciones-parte-2
 external_manifest_url: 
 
 ---
