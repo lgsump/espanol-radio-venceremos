@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <hr>
 <br>
 <br>
-<right><h4><b><i>a la vista</i></b> -- (expression) in front of
+  </center><h5><b><i>a la vista</i></b> -- (expression) in front of
 <br>
 <br>
 <b><i>bomba cazabobos</i></b> -- (n) booby trap
