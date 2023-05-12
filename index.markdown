@@ -9,6 +9,7 @@ layout: home
   <img class="Left" width="300" height="300" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/ec73fb70-cb52-4da4-aeb7-2ad69ea23ff2">
     <b>Los sonidos de guerra:</b>
    <img class="right" width="300" height="300" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/131e340a-4d86-4341-9466-c5167aa9dce1">
+    <br>
     <h4>Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990
   <br>
     <br>
