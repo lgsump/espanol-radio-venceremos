@@ -9,7 +9,7 @@ layout: home
 <hr>
 <left>
 <br>
-<p style="text-align:center;"><img width="500" height="500" alt="Screen Shot 2023-03-08 at 7 04 54 PM" src="https://user-images.githubusercontent.com/122332459/223888582-3a690e68-f792-4565-a13e-0c5227e43822.png"></p>
+<p style="text-align:center;"><img width="206" alt="Screen Shot 2023-05-11 at 8 05 13 PM" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/b8875cc4-7e73-4e55-9d98-bcc365ac0bd7"></p>
 <br>
 <h6>Tomado de <a href="https://ladi.lib.utexas.edu/en/MUPI/bf3b580f-a8e5-4dcb-9204-24934d3820b2">"7 Jahre"</a>.</h6>
 <br>
