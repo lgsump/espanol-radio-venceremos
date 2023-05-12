@@ -5,9 +5,9 @@
 layout: home
 ---
 <h1><center>Los sonidos de guerra:</center>
-<br>
+  <h3><center>Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990
+    <br>
 <img class="left" width="250" height="250" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/ec73fb70-cb52-4da4-aeb7-2ad69ea23ff2" />
-<h4><center>Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990
 <img class="right" width="250" height="250" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/bf53e0d3-57d3-44a4-8cc1-2ee0783884ab" />
 <br>
 <h6>Tomado de <a href="https://ladi.lib.utexas.edu/en/MUPI/bf3b580f-a8e5-4dcb-9204-24934d3820b2">"7 Jahre"</a>.</h6>
@@ -17,4 +17,3 @@ layout: home
 <hr>
 <h2>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/">inglés</a></h2>
 <hr>
-</left>
