@@ -10,7 +10,7 @@ layout: home
   Los sonidos de guerra:
    <img class="right" width="300" height="300" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/131e340a-4d86-4341-9466-c5167aa9dce1">
     <h4>Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990
-  </p></center>
+  </p>
   <br>
     <br>
 <h6>Tomado de <a href="https://ladi.lib.utexas.edu/en/MUPI/bf3b580f-a8e5-4dcb-9204-24934d3820b2">"7 Jahre"</a>.</h6>
