@@ -4,7 +4,7 @@
 
 layout: home
 ---
-  <h1><center><b>LOS SONIDOS DE LA GUERRA CIVIL:</b></h1>
+  <h1><center><b>LOS SONIDOS DE LA GUERRA CIVIL:</h1></b>
       <hr>
  <h3>Los reportajes de violencia en las transmisiones de <i>Radio Venceremos</i>: 
       <br>
