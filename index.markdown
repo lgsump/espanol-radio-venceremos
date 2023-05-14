@@ -4,9 +4,9 @@
 
 layout: home
 ---
-<center><h1><b><tt>LOS SONIDOS DE LA GUERRA CIVIL:
+<center><b><tt><h1>LOS SONIDOS DE LA GUERRA CIVIL:</h1>
   <br>
-</h1><h3>Los reportajes de violencia en las transmisiones de <i>Radio Venceremos</i>: 
+<h3>Los reportajes de violencia en las transmisiones de <i>Radio Venceremos</i>: 
 <br>
 El Salvador, 1981-1990
 <br> 
