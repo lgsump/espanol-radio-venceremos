@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://lgsump.github.io/radio-venceremos-espanol/1981-05-27-anotaciones-parte-1/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "1981-05-27 Anotaciones, parte 1" ] },
+    "label": { "en": [ "27 de mayo, 1981 - AM" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/19810520-a",
         "type": "Text",
-        "label": { "en": [ "1981-05-27 Anotaciones, parte 1" ] },
+        "label": { "en": [ "27 de mayo, 1981 - AM" ] },
         "format": "text/html"
       }
     ],

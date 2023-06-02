@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 1981-05-27 Anotaciones, parte 1
+title: 27 de mayo, 1981 - AM
 manifest_name: 1981-05-27-anotaciones-parte-1
 
 ---
