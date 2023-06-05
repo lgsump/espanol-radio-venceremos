@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-bajas.json",
-            "label": {
-              "none": ["Bajas"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
