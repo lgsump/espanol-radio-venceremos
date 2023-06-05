@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-tortura-bajas.json",
-            "label": {
-              "none": ["Plomo Informativo/Tortura/Bajas"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativoenfrentamientos-bajas.json",
             "label": {
               "none": ["Plomo/InformativoEnfrentamientos/Bajas"]
