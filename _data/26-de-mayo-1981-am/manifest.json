@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-violaci-n--masacre.json",
-            "label": {
-              "none": ["Violación/ Masacre"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-entrevistado-masacre.json",
             "label": {
               "none": ["Entrevistado/Masacre"]
