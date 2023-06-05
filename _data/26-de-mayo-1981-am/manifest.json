@@ -115,14 +115,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-violaci-n.json",
-            "label": {
-              "none": ["Violación"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-political-context.json",
             "label": {
               "none": ["Political context"]
