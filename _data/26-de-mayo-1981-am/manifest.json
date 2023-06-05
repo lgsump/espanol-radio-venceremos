@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-entrevistador.json",
-            "label": {
-              "none": ["Entrevistador"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-internacional.json",
             "label": {
               "none": ["Internacional"]
