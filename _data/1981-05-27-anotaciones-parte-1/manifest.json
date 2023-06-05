@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-entrevista.json",
-            "label": {
-              "none": ["Entrevista"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/1981-05-27-anotaciones-parte-1-canvas-1-radio-venceremos--fmln.json",
             "label": {
               "none": ["Radio Venceremos; FMLN"]
