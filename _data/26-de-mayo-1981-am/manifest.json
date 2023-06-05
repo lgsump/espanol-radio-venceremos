@@ -155,14 +155,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-entrevista.json",
-            "label": {
-              "none": ["Entrevista"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-masacre.json",
             "label": {
               "none": ["Masacre"]
