@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: 26 de mayo, 1981 - PM
 manifest_name: 26-de-mayo-1981-pm
 permalink: 26-de-mayo-1981-pm
