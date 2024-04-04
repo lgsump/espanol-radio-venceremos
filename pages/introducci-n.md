@@ -7,7 +7,7 @@ permalink: introducci-n
 using HTML or markdown.  Do not modify this file above this line -->
 <h1><center><i>Radio Venceremos: La radio del pueblo</i></center></h1>
 <hr>
-<h3><center>Proyecto en <a href="https://lgsump.github.io/radio-venceremos-english/introduction">inglés</a></center></h3>
+<h3><center>Proyecto en <a href="https://radiovenceremos.github.io/radio-venceremos-english-1/introduction">inglés</a></center></h3>
 <hr>
 <br>
 <i>Radio Venceremos</i> fue una transmisión de radio fundada por el Frente Farabundo María para la Liberación (FMLN) durante la Guerra Civil de El Salvador. La guerra civil salvadoreña se caracterizó como uno de muchos movimientos rebeldes en Latinoamérica que luchó contra los regímenes autoritarios impuestos por el gobierno de los EE.UU. El papel de la revolución cubana en 1959 jugó un papel importante al permitirle a los movimientos revolucionarios como el de El Salvador creer que tendrían éxito al resistir un gobierno títere de los EE.UU. A diferencia de los movimientos socialistas de Chile y Nicaragua, cuyos movimientos revolucionarios fueron completamente aniquilados por sus respectivos gobiernos apoyados por la CIA en los 1970s, la guerra civil salvadoreña terminó con la firma de los Acuerdos de Paz de Chapultepec entre el FMLN y el gobierno del Presidente Alfredo Cristiani el 11 de enero de 1992. Estos acuerdos incluyeron la promesa de la implementación de ciertos término específicos entre el FMLN y el entonces partido político ARENA, pero son muchos de estos términos y acuerdos que faltan por ser implementados. 

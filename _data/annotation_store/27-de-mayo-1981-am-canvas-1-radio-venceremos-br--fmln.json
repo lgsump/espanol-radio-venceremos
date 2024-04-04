@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln.json",
   "type": "AnnotationPage",
   "label": "Radio Venceremos<br> FMLN",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "260.0,275.0"
@@ -49,7 +49,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "544.0,553.0"
@@ -71,7 +71,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "951.0,967.0"
@@ -93,7 +93,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1488.0,1510.0"
@@ -115,7 +115,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2425.0,2437.0"

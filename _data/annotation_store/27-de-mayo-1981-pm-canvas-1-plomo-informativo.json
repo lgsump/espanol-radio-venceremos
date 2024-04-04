@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-plomo-informativo.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-plomo-informativo.json",
   "type": "AnnotationPage",
   "label": "Plomo Informativo",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "24.0,36.0"
@@ -49,7 +49,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "277.0,279.0"

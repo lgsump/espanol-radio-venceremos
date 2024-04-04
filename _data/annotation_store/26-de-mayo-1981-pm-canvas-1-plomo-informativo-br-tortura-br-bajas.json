@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-tortura-br-bajas.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-tortura-br-bajas.json",
   "type": "AnnotationPage",
   "label": "Plomo Informativo<br>Tortura<br>Bajas",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "122.0,146.0"
