@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os.json",
   "type": "AnnotationPage",
   "label": "Bajas<br> Violencia contra niños",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1742.0,1760.0"

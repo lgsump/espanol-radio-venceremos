@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-bajas.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-pm-canvas-1-bajas.json",
   "type": "AnnotationPage",
   "label": "Bajas",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "115.0,137.0"

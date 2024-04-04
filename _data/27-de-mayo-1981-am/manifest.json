@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/manifest.json",
+    "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "27 de mayo, 1981 - AM" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2712,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-globo-informativo.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-globo-informativo.json",
             "label": {
               "none": ["Globo Informativo"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-enfrentamiento.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-enfrentamiento.json",
             "label": {
               "none": ["Enfrentamiento"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
             "label": {
               "none": ["Contexto político"]
             }
@@ -59,7 +59,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento.json",
             "label": {
               "none": ["Bajas\u003cbr\u003e Enfrentamiento"]
             }
@@ -67,7 +67,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-sabotaje.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-sabotaje.json",
             "label": {
               "none": ["Sabotaje"]
             }
@@ -75,7 +75,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-musica.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-musica.json",
             "label": {
               "none": ["Musica"]
             }
@@ -83,7 +83,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln.json",
             "label": {
               "none": ["Radio Venceremos\u003cbr\u003e FMLN"]
             }
@@ -91,7 +91,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-combate.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-combate.json",
             "label": {
               "none": ["Combate"]
             }
@@ -99,7 +99,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-bajas.json",
             "label": {
               "none": ["Bajas"]
             }
@@ -107,7 +107,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-efectos-de-sonido.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-efectos-de-sonido.json",
             "label": {
               "none": ["Efectos de sonido"]
             }
@@ -115,7 +115,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-poema.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-poema.json",
             "label": {
               "none": ["Poema"]
             }
@@ -123,7 +123,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-m-sica.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-m-sica.json",
             "label": {
               "none": ["Música"]
             }
@@ -131,7 +131,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os.json",
             "label": {
               "none": ["Bajas\u003cbr\u003e Violencia contra niños"]
             }
@@ -139,7 +139,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-reporte.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-reporte.json",
             "label": {
               "none": ["Reporte"]
             }
@@ -147,7 +147,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-entrevistador.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-entrevistador.json",
             "label": {
               "none": ["Entrevistador"]
             }
@@ -155,7 +155,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-m-sica-.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-m-sica-.json",
             "label": {
               "none": ["Música "]
             }
@@ -163,7 +163,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-los-poderes-creadores-del-pueblo.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-los-poderes-creadores-del-pueblo.json",
             "label": {
               "none": ["Los Poderes Creadores del Pueblo"]
             }
@@ -171,7 +171,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-.json",
             "label": {
               "none": ["Radio Venceremos "]
             }
@@ -179,7 +179,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-entrevista.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-entrevista.json",
             "label": {
               "none": ["Entrevista"]
             }
@@ -187,7 +187,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-comentarista-invitado.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/27-de-mayo-1981-am-canvas-1-comentarista-invitado.json",
             "label": {
               "none": ["Comentarista Invitado"]
             }
@@ -195,11 +195,11 @@
         ],
         "items": [
           {
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/paintings",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/painting",
+                "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -208,7 +208,7 @@
                   "format": "audio/mp3",
                     "duration": 2712
                 },
-                "target": "https://radiovenceremos.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas"
+                "target": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/27-de-mayo-1981-am/canvas-1/canvas"
               }
             ]
           }
