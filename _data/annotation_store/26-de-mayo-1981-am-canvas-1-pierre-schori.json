@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/26-de-mayo-1981-am-canvas-1-pierre-schori.json",
+  "id": "https://lgsump.github.io/radio-venceremos-spanish/annotations/26-de-mayo-1981-am-canvas-1-pierre-schori.json",
   "type": "AnnotationPage",
   "label": "Pierre Schori",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/26-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/26-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "534.0,550.0"

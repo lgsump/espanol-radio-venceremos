@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/annotations/31-de-diciembre-1981-pm-canvas-1-fmln.json",
+  "id": "https://lgsump.github.io/radio-venceremos-spanish/annotations/31-de-diciembre-1981-pm-canvas-1-fmln.json",
   "type": "AnnotationPage",
   "label": "FMLN",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1101,1127"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1128,1155"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1156,1180"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1181,1222"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1223,1254"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1255,1295"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1296,1325"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1326,1375"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1376,1399"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1400,1443"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1444,1484"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1485,1525"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1526,1582"
@@ -305,7 +305,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1583,1639"
@@ -327,7 +327,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1640,1670"
@@ -349,7 +349,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-1/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/radio-venceremos-spanish/31-de-diciembre-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1671,1699"
