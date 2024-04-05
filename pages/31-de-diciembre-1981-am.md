@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: 31 de diciembre, 1981 - AM
 manifest_name: 31-de-diciembre-1981-am
 permalink: 31-de-diciembre-1981-am
