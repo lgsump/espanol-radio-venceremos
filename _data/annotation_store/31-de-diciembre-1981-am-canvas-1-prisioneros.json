@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/31-de-diciembre-1981-am-canvas-1-prisioneros.json",
+  "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/31-de-diciembre-1981-am-canvas-1-prisioneros.json",
   "type": "AnnotationPage",
   "label": "Prisioneros",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/31-de-diciembre-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/espanol-radio-venceremos/31-de-diciembre-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2491.0,2529.0"
@@ -57,7 +57,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/31-de-diciembre-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/espanol-radio-venceremos/31-de-diciembre-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2691.0,2723.0"
@@ -87,7 +87,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/31-de-diciembre-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/espanol-radio-venceremos/31-de-diciembre-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2785.0,2803.0"

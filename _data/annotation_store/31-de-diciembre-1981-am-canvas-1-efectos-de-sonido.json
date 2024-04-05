@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/31-de-diciembre-1981-am-canvas-1-efectos-de-sonido.json",
+  "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/31-de-diciembre-1981-am-canvas-1-efectos-de-sonido.json",
   "type": "AnnotationPage",
   "label": "Efectos de sonido",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/31-de-diciembre-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/espanol-radio-venceremos/31-de-diciembre-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2147.0,2153.0"

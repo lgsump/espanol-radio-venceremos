@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/26-de-mayo-1981-am/manifest.json",
+    "id": "https://lgsump.github.io/espanol-radio-venceremos/26-de-mayo-1981-am/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "26 de mayo, 1981 - AM" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/26-de-mayo-1981-am/canvas-1/canvas",
+        "id": "https://lgsump.github.io/espanol-radio-venceremos/26-de-mayo-1981-am/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2781,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-entrevistador.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-entrevistador.json",
             "label": {
               "none": ["Entrevistador"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-internacional.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-internacional.json",
             "label": {
               "none": ["Internacional"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-pierre-schori.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-pierre-schori.json",
             "label": {
               "none": ["Pierre Schori"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-entrevistado.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-entrevistado.json",
             "label": {
               "none": ["Entrevistado"]
             }
@@ -59,7 +59,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
             "label": {
               "none": ["Contexto político"]
             }
@@ -67,7 +67,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente.json",
             "label": {
               "none": ["Sobreviviente"]
             }
@@ -75,7 +75,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-m-sica.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-m-sica.json",
             "label": {
               "none": ["Música"]
             }
@@ -83,7 +83,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-fmln.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-fmln.json",
             "label": {
               "none": ["FMLN"]
             }
@@ -91,7 +91,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-violaci-n.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-violaci-n.json",
             "label": {
               "none": ["Violación"]
             }
@@ -99,7 +99,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-poderes-creadores-del-pueblo.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-poderes-creadores-del-pueblo.json",
             "label": {
               "none": ["Poderes Creadores del Pueblo"]
             }
@@ -107,7 +107,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-bajas.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-bajas.json",
             "label": {
               "none": ["Bajas"]
             }
@@ -115,7 +115,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente-br-violaci-n.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente-br-violaci-n.json",
             "label": {
               "none": ["Sobreviviente\u003cbr\u003eViolación"]
             }
@@ -123,7 +123,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
             }
@@ -131,7 +131,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-poes-a.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-poes-a.json",
             "label": {
               "none": ["Poesía"]
             }
@@ -139,7 +139,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos-br-fmln.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos-br-fmln.json",
             "label": {
               "none": ["Radio Venceremos\u003cbr\u003eFMLN"]
             }
@@ -147,7 +147,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-masacre.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-masacre.json",
             "label": {
               "none": ["Masacre"]
             }
@@ -155,7 +155,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-masacre-br-sobreviviente.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-masacre-br-sobreviviente.json",
             "label": {
               "none": ["Masacre\u003cbr\u003eSobreviviente"]
             }
@@ -163,7 +163,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-plomo-informativo.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-plomo-informativo.json",
             "label": {
               "none": ["Plomo Informativo"]
             }
@@ -171,7 +171,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-periodista.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-periodista.json",
             "label": {
               "none": ["Periodista"]
             }
@@ -179,7 +179,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/26-de-mayo-1981-am-canvas-1-efecto-de-sonido.json",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/annotations/26-de-mayo-1981-am-canvas-1-efecto-de-sonido.json",
             "label": {
               "none": ["Efecto de sonido"]
             }
@@ -187,11 +187,11 @@
         ],
         "items": [
           {
-            "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/26-de-mayo-1981-am/canvas-1/paintings",
+            "id": "https://lgsump.github.io/espanol-radio-venceremos/26-de-mayo-1981-am/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/26-de-mayo-1981-am/canvas-1/painting",
+                "id": "https://lgsump.github.io/espanol-radio-venceremos/26-de-mayo-1981-am/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -200,7 +200,7 @@
                   "format": "audio/mp3",
                     "duration": 2781
                 },
-                "target": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/26-de-mayo-1981-am/canvas-1/canvas"
+                "target": "https://lgsump.github.io/espanol-radio-venceremos/26-de-mayo-1981-am/canvas-1/canvas"
               }
             ]
           }
