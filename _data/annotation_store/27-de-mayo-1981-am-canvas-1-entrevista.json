@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://lgsump.github.io/radio-venceremos-spanish/annotations/27-de-mayo-1981-am-canvas-1-entrevista.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/27-de-mayo-1981-am-canvas-1-entrevista.json",
   "type": "AnnotationPage",
   "label": "Entrevista",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1705.0,1727.0"
@@ -57,7 +57,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1729.0,1739.0"
@@ -87,7 +87,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1774.0,1796.0"
@@ -117,7 +117,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1806.0,1816.0"
@@ -147,7 +147,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1819.0,1822.0"
@@ -177,7 +177,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1825.0,1840.0"
@@ -207,7 +207,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1842.0"
@@ -237,7 +237,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1846.0,1879.0"
@@ -267,7 +267,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1911.0,1957.0"
@@ -297,7 +297,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1958.0,1986.0"

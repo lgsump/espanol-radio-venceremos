@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://lgsump.github.io/radio-venceremos-spanish/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento.json",
   "type": "AnnotationPage",
   "label": "Bajas<br> Enfrentamiento",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://lgsump.github.io/radio-venceremos-spanish/27-de-mayo-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-espanol-2/27-de-mayo-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1045.0,1072.0"
