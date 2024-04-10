@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<center><tt><h1><b>LOS SONIDOS DE UNA GUERRA CIVIL:</b></h1></tt>
+<center><tt><h1><b>LOS SONIDOS DE UNA GUERRA CIVIL:</b></h1>
 <h2>Los reportajes de violencia en las transmisiones de <i>Radio Venceremos</i>: 
 <br>
 El Salvador, 1981-1990 
@@ -15,5 +15,5 @@ El Salvador, 1981-1990
   <br>
 <br>
 <h2>Proyecto en <a href="https://lgsump.github.io/english-radio-venceremos/">inglés</a></h2>
-<br>
+<br></tt>
 </center>
