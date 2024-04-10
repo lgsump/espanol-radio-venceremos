@@ -15,5 +15,4 @@ El Salvador, 1981-1990
   <br>
 <br>
 <h2>Proyecto en <a href="https://lgsump.github.io/english-radio-venceremos/">inglés</a></h2>
-<br></tt>
-</center>
+<br>
